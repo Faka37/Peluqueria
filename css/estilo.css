@@ -32,19 +32,13 @@ h1 {
     font-size: 1rem;
 }
 
-.nav-icons {
-    background-color: rgba(124, 124, 124, 0.521);
-    position:initial;
-}
-
 ul {
     margin: 0;
 }
 
 li {
     display: inline-block;
-    align-items: center;
-    
+    align-items: center;    
 }
 
 .fondo{
@@ -56,24 +50,4 @@ li {
 
 .card {
     background:rgba(124, 124, 124, 0.521);
-}
-
-.face:hover {
-    color:blue;
-}
-
-.inst:hover {
-    color:rgb(180, 103, 219);
-}
-
-.whats:hover {
-    color:green;
-}
-
-@media screen and (min-width:500px) {
-
-    bod {
-        background-image: url(../img/vintage-chairs-in-barbershop.jpg);
-    }
-    
 }
